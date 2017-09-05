@@ -1,1 +1,3 @@
 # go-feller
+
+See examples
